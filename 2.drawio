@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T03:36:25.935Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="aRVnuZTh3vdJVmo63E10" version="15.6.8" type="github"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFFMMpRh4s13G/viJIBiMby5cgpVZeYm0JAXst9l66wATezV8/V2iRfSUpLibASV8n8N8JAK7nROxfbdk0ltDjhlmVp7xRa3jKf2NudLh1lad4udOQElLQfLFrTEhZ4oTu2FBVkfVusxdS7J51gWZYMjwlqJCt/+UpzbjVdZy24gvOZxk/deTzimeU/JxVZFXy85WkxE3NHIlueNNlhlKy7pjg/QTeVYTQ5tf89Q4XtVuFx5rjHg7Ubi+5wiVVOSAMcZDE4YsbBymKIviJ9/ALFSvuhm/M5/xi6Ub4ZrnO5wVitwWnGZ0XzOiyn0mWF+kj2pBVffIlZX4QpSkrVZSDzC4KTt8chOvrqEtbR9SFAj3jYrr14h0pSMWq3vxY91SRn1tI6vO+kJI+oHle1Ez7gasUlYib+RkjVkRFPivZ74T5BrP+prKzxN3jiuLXjok77zMmc0yrDWvCa0OOI6e4x4vrli9xwG1ZhyqhoAriHJ1te27BYj84XorYAQm7xxoi4LiK+EkYyR46SJjjLuM+ArKP3L0+gu/ho0jykeSblpi1T9ZZTvHTAiV17ZpFup7LjODtQSooExnsEjnwZZCcPSAF74FRbDFSwcj1dYIksrRFqYcS3EXJD/bEu9FQAoEECk6ZyuFFUtGMzEiJivvWOt2FrQPRMVRY9vinFl4920NeX3CT5jsZxmdlXKbiiKRAy2WefM/ysqngh7lNqXPQ/5jSDS+jFSXM1N7IIyGLbTo7hybKKW9JVlWCh/MMu90ZPtgP76hGZJBZFS4QzX/t6tLr8iS0PNHCE8GBQaLE1+bJ26HMoWjTabAgeUmXnZ6/1YZO+vH255+HA+3DwebsR3MBLWG3d3ImhyPLYS0cjlViHTAm1okEbXkydqyDOmLd+TyRh82WJ6PwJPhYPJEHPpYnY/BEjIc/gnbqTa/EvWnZ4eYwHG4eDja/vtKC0DLe3Azq+uaExtgSxdzQCKAxRPGsJtdEFJWIAjxdRHGd8BmFAfYwhP5LHH+ymlxT5glVMk9kDE+sJtcUT4AKT64eT84S5UHQU+XusMzut/f94faeM9j+Yl0ukd7KcnGVEwCdt7+zH4emuK+/UZ8UbdMcErm8myeXyRHVuYmIGo0cUH3LeT1qU2X4ev3YeBbne5wMjomC+ML27jtz3u4Y0cR5z2g9IM/tNX3Ku03loZeO3aaitpdh9O4+Fbs9/vZNc/BUmGA/KMoojbZnzjtEbHl4pZHYEBhFbHAbxPZOhsmoPbtyzJZRysj8ebU8jpCJ729cjldvj9u+Nzqi0eCSI5F9qPY8VJq3WNs1zusLZjHZNCiYlSZGzFnj9A/pCnlmTaOu8CKjdIXstL8yBPqnwgSP56kRdUVwa7riZLx6ugLueazG0xWhfahUHqrt+p2eh+pGXoO8FCXN6k/lNUgb+rpzOzqHVNCuYhqyRC6W1gYVPm80rPC5+DBA4UO7Xnj9oaASUVTeGBGyxwSi2EU2TURReVdR5HQDiCIPrPicgRxpNM4ZBP1ZU71zBjfyjZfgVJiMGt6AG1kKvRilSCtKwKL0AQahKut6FqW9Q8/xUIL2GyvXF31CSA+KPpWP8Yh8ZIDog/ZDJnqIsv3M6CBRgDFEkefx+ehAHl5qHB1EjkmjA3AjmyrCU2EaMVeyYvuJ22bPcvsJYXj/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-05T05:54:20.317Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="_fMqGkiFj-ujnWOY-_uc" version="15.6.8" type="github">
+  <diagram name="资金流-认购-银行卡支付" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="329" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="77e6c97f196da883-1" value="Pool" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="40" width="870" height="750" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-2" value="用户" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="77e6c97f196da883-2">
+          <mxGeometry x="65" y="65" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="77e6c97f196da883-1" target="77e6c97f196da883-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="115" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="115" />
+              <mxPoint x="110" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="77e6c97f196da883-3" value="前端" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="160" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-11" value="发起认购" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
+          <mxGeometry x="30" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-4" value="API" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="320" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-6" value="处理认购&lt;br&gt;支付结果确认&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-4">
+          <mxGeometry x="20" y="65" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="77e6c97f196da883-6" value="清结算" style="swimlane;html=1;startSize=20;" parent="77e6c97f196da883-1" vertex="1">
+          <mxGeometry x="480" y="20" width="230" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-11" value="银行卡支付成功之后流水表中写入800和020两条记录;&lt;br&gt;更新余额表`TCUSTFUND`当前余额和交易冻结金额" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=left;spacingLeft=1;spacingRight=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="30" y="27.5" width="170" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-18" value="T+1日流水表写入122一条记录;&lt;br&gt;FOF例外; &lt;br&gt;T+2日清空资金清算表`TCUSTFUND_liq`和`TCUSTFUND_liq_detail`并更新余额表`TCUSTFUND`&lt;br&gt;" style="rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=left;spacingLeft=2;spacingRight=2;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;whiteSpace=wrap;html=1;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="30" y="223.75" width="170" height="147.5" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-22" value="基金募集成功之后,&amp;nbsp; 基金公司返回130. 二次确认购买份额, 申请份额与确认份额不一致时说明认购部分成功或认购失败, 需要在流水表中写入130和804两条记录, 发生金额为退款金额`RefundAmount`" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="77e6c97f196da883-6">
+          <mxGeometry x="20" y="470" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-15" value="基金公司" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
+          <mxGeometry x="710" y="20" width="160" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-16" value="认购确认" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacingLeft=1;spacingRight=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="12GjkF5NvIw1e0oJFxWk-15">
+          <mxGeometry x="10" y="270" width="140" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="12GjkF5NvIw1e0oJFxWk-15" source="12GjkF5NvIw1e0oJFxWk-16" target="12GjkF5NvIw1e0oJFxWk-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-21" value="认购结果确认" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="12GjkF5NvIw1e0oJFxWk-15">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="77e6c97f196da883-11" target="12GjkF5NvIw1e0oJFxWk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="12GjkF5NvIw1e0oJFxWk-16" target="12GjkF5NvIw1e0oJFxWk-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="317" />
+              <mxPoint x="690" y="317" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="12GjkF5NvIw1e0oJFxWk-6" target="12GjkF5NvIw1e0oJFxWk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="12GjkF5NvIw1e0oJFxWk-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="12GjkF5NvIw1e0oJFxWk-21" target="12GjkF5NvIw1e0oJFxWk-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="550" />
+              <mxPoint x="700" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
